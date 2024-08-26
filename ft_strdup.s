@@ -1,4 +1,4 @@
-section .text ; sectionlara bak
+section .text
 global _ft_strdup
 extern _ft_strlen
 extern _malloc
